@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LunarGui/Lunar-Script/main/Lunar%20v1.txt"))()
